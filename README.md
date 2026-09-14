@@ -42,14 +42,7 @@
 <br />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tabaniii&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabaniii&layout=compact&langs_count=6&theme=dracula&hide_border=false" alt="Top languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tabaniii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Tabaniii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=0D1117&border=30363D&stroke=30363D&ring=EF4444&fire=EF4444&currStreakNum=EF4444&sideNums=EF4444&currStreakLabel=EF4444&sideLabels=EF4444&dates=8B949E" height="150" alt="GitHub streak" />
 </div>
 
 <br />
