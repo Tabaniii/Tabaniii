@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,npm,nestjs,graphql,go,rust,py,php,laravel,mysql,postgres,supabase,aws,git,vscode,vite,figma&perline=12&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,npm,py,php,laravel,mysql,postgres,supabase,aws,git,vite,figma&perline=12&theme=dark" alt="Tech stack" />
 </div>
 
 <br />
