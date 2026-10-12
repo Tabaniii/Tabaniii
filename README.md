@@ -37,4 +37,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tabaniii/Tabaniii/output/github-snake.svg">
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Tabaniii/Tabaniii/output/github-snake.svg">
   </picture>
-</div>
+</div> 
